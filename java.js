@@ -23,7 +23,8 @@ const kpopFoto =[
       'https://0.soompi.io/wp-content/uploads/2017/11/09204928/ASTRO-1.jpg?s=900x600&e=t',
       'https://pbs.twimg.com/media/DNR5AXVV4AAQ2qB.jpg',
       'https://nos.nl/data/image/2019/11/04/590105/1920x1080a.jpg',
-      'https://avatanplus.com/files/resources/original/596e50682fd6615d56ea1704.png'
+      'https://avatanplus.com/files/resources/original/596e50682fd6615d56ea1704.png',
+      'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76fd8449-0c4b-4ebb-a60f-5f721e8bc4e6/daa75vm-fd29d50a-7917-42b0-bd8f-19e67873aaa7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc2ZmQ4NDQ5LTBjNGItNGViYi1hNjBmLTVmNzIxZThiYzRlNlwvZGFhNzV2bS1mZDI5ZDUwYS03OTE3LTQyYjAtYmQ4Zi0xOWU2Nzg3M2FhYTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RMMvXR5RTxAY5AsGsHZ74Xhmq2BIE2hWvHVmmV3GFEY'
     ];
 
 const kader = document.getElementById('container');
