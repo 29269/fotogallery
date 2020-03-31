@@ -30,18 +30,18 @@ const kpopFoto =[
 
 const kader = document.getElementById('container');
 
-function fotoeen(url) {
-    let item = document.createElement('div');
-    item.className = 'item';
-    let mijnFoto = document.createElement('img');
-    mijnFoto.src = url;
-    mijnFoto.alt = 'ventie';
-    item.append(mijnFoto);
-    kader.append(item);
-}
-///met i-- kan ik beginnen van beneden naar boven 
-for(let i=kpopFoto.length;  i>0; i--) {
-    let num = Math.floor (Math.random()*kpopFoto.length)
-fotoeen(kpopFoto[num] );
-kpopFoto.splice(num,1)
-}
+// function fotoeen(url) {
+//     let item = document.createElement('div');
+//     item.className = 'item';
+//     let mijnFoto = document.createElement('img');
+//     mijnFoto.src = url;
+//     mijnFoto.alt = 'ventie';
+//     item.append(mijnFoto);
+//     kader.append(item);
+// }
+// ///met i-- kan ik beginnen van beneden naar boven 
+// for(let i=kpopFoto.length;  i>0; i--) {
+//     let num = Math.floor (Math.random()*kpopFoto.length)
+// fotoeen(kpopFoto[num] );
+// kpopFoto.splice(num,1)
+// }
